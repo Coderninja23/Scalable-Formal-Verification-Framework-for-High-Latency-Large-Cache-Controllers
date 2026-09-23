@@ -1,4 +1,3 @@
-````markdown
 # Scalable Formal Verification Framework for High Latency Large Cache Controllers
 
 This repository contains the UPPAAL models and verification queries used in the formal verification and statistical model checking experiments presented in the associated paper.
